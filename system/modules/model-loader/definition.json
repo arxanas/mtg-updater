@@ -1,0 +1,9 @@
+{
+    "class-name": "Framework\\ModelLoader",
+    "class-file": "model-loader.php",
+    "dependencies": [
+        "module-loader",
+        "orm-loader",
+        "database"
+    ]
+}

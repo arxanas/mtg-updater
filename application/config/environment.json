@@ -1,0 +1,5 @@
+{
+    "development": true,
+    "autoload": true,
+    "data_prefix": ""
+}

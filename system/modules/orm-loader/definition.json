@@ -1,0 +1,7 @@
+{
+    "class-name": "Framework\\OrmLoader",
+    "class-file": "orm-loader.php",
+    "dependencies": [
+         "database"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "class-name": "Smarty",
+    "class-file": "Smarty.class.php",
+    "factory-file": "smarty-factory.php",
+    "dependencies": []
+}

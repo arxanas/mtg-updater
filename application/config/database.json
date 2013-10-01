@@ -1,0 +1,5 @@
+{
+    "username": "root",
+    "password": "",
+    "dsn": "sqlite:APP_PATH/database/db.sqlite3"
+}

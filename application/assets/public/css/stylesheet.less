@@ -1,0 +1,120 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: lighten(#0000FF, 48%);
+
+    font-family: "Helvetica Neue", "Helvetica", "Tahoma", "Verdana", "Arial", sans-serif;
+    font-size: 13px;
+
+    .container {
+        margin: auto;
+        margin-top: 50px;
+
+        width: 500px;
+
+        color: #333333;
+        background-color: #FAFAFA;
+
+        border-color: #888888;
+        border-radius: 5px;
+        border-style: solid;
+        border-width: 1px;
+
+        .column {
+            float: left;
+
+            display: inline-block;
+
+            margin: 0px;
+            padding: 5px;
+
+            width: 238px;
+            height: 100%;
+        }
+
+        .clearfix {
+            clear: both;
+        }
+
+        .progress {
+            display: block;
+
+            margin-top: 5px;
+            margin-bottom: 5px;
+            padding: 1px;
+
+            height: 12px;
+
+            border-color: #888888;
+            border-radius: 10px;
+            border-style: solid;
+            border-width: 1px;
+
+            .bar {
+                display: inline-block;
+
+                height: 100%;
+
+                background-color: lighten(#0000FF, 44%);
+
+                border-radius: 10px;
+            }
+
+            .caption {
+                display: block;
+
+                margin-top: -15px;
+
+                height: 100%;
+                
+                font-size: 10px;
+                text-align: center;
+            }
+        }
+
+        a {
+            color: #0000FF;
+            text-decoration: none;
+
+            &:hover {
+                border-color: #0000FF;
+                border-style: none none dashed none;
+                border-width: 1px;
+            }
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+
+            thead {
+                th {
+                    padding-bottom: 5px;
+                }
+            }
+            tbody {
+                td {
+                    padding: 5px;
+
+                    border-color: #333333;
+                    border-style: solid none none none;
+                    border-width: 1px;
+
+                    text-align: center;
+                }
+            }
+        }
+
+        form {
+            fieldset {
+                border-style: none;
+            }
+            textarea {
+                width: 100%;
+            }
+        }
+    }
+}

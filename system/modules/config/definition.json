@@ -1,0 +1,6 @@
+{
+    "class-name": "Framework\\Config",
+    "class-file": "config.php",
+    "factory-file": "config-factory.php",
+    "dependencies": []
+}

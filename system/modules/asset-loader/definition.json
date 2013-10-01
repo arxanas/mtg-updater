@@ -1,0 +1,5 @@
+{
+    "class-file": "asset-loader.php",
+    "class-name": "Framework\\AssetLoader",
+    "dependencies": []
+}

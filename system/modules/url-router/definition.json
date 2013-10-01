@@ -1,0 +1,9 @@
+{
+    "class-file": "url-router.php",
+    "class-name": "Framework\\UrlRouter",
+    "dependencies": [
+        "asset-loader",
+        "controller-loader",
+        "view-loader"
+    ]
+}

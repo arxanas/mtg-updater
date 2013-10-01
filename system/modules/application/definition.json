@@ -1,0 +1,9 @@
+{
+    "class-name": "Framework\\Application",
+    "class-file": "application.php",
+    "dependencies": [
+        "url-router",
+        "autoloader",
+        "error-handler"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "class-name": "Framework\\ViewLoader",
+    "class-file": "view-loader.php",
+    "dependencies": [
+        "smarty",
+        "config"
+    ]
+}

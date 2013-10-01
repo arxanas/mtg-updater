@@ -1,0 +1,8 @@
+{
+    "class-name": "Framework\\Autoloader",
+    "class-file": "autoloader.php",
+    "dependencies": [
+        "model-loader",
+        "orm-loader"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "class-name": "Framework\\ErrorHandler",
+    "class-file": "error-handler.php",
+    "dependencies": [
+        "view-loader",
+        "smarty"
+    ]
+}

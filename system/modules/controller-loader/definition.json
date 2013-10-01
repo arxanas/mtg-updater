@@ -1,0 +1,10 @@
+{
+    "class-name": "Framework\\ControllerLoader",
+    "class-file": "controller-loader.php",
+    "dependencies": [
+        "module-loader",
+        "model-loader",
+        "view-loader",
+        "orm-loader"
+    ]
+}

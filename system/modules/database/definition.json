@@ -1,0 +1,8 @@
+{
+    "class-name": "DummyPDO",
+    "class-file": "database.php",
+    "factory-file": "database-factory.php",
+    "dependencies": [
+        "config"
+    ]
+}
